@@ -5,8 +5,8 @@
     "group": "damongroup",
     "description": "This is the description of your cronJob daemon",
     "tab": {
-        "main": "kubernetes cronjob",
-        "sub": "Subtype Daemon"
+        "main": "kubernetes_cronjob",
+        "sub": "Subtype_Daemon"
     },
  
     "port": 4100,
